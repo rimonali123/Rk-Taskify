@@ -41,7 +41,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-   <button className='flex items-center gap-1 text-base font-medium text-green-600'>Sing Ingi<span className='font-extrabold '><CiLogin /></span> </button>
+   <button className='flex items-center gap-1 text-base font-medium text-green-600'>Sing In<span className='font-extrabold '><CiLogin /></span></button>
   </div>
 </div>
         </div>
