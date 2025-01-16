@@ -1,5 +1,4 @@
 import React from 'react';
-import img5 from '../../../../../Banner pic/5.jpg'
 
 const Banner = () => {
     return (
